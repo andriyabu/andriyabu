@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working as a freelancer for Backend Engineer with Go / Nodejs <br>🌱 I’m currently learning abut Rust and Elixir<br>💬 Ask me about programming<br>⚡ Fun fact than i am not a superman
+🔭 I’m currently working as a freelancer for Backend Engineer with Go / Nodejs <br>🌱 I’m currently learning about Rust and Elixir<br>💬 Ask me about programming<br>⚡ Fun fact than i am not a superman
 
 
 ## 🌐 Socials:
